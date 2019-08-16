@@ -1,5 +1,3 @@
-package p2.prob1.c.etapa1;
-
 public class WAVPlayer implements FormatoAudio{
     
     public void play(){
